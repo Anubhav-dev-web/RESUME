@@ -13,10 +13,11 @@ body{
    
 }
 .divimg{
-    margin-top: 50px;
+    margin-top: 20px;
     border-radius: 50%;
     width: 200px;
     height: 200px;
+    
 
 }
 h3{
@@ -94,6 +95,7 @@ li{
   #nn{
     display:inline-flex;
     margin-left: 10%;
+    margin-bottom:0%;
   }
 
   
