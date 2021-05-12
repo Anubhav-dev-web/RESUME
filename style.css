@@ -38,10 +38,7 @@ h3{
     font-family: lobster;
     margin-bottom:0%;
 }
-    .p3 p2 a{
-    text-decoration: none;
-   color:#4ddbff ;        
-}
+   
 
 #h{
     text-align: center;
@@ -118,6 +115,10 @@ li{
   }
   .box li a:hover{
     color: #b9b9b9; 
+  }
+   .p3 p2 a{
+    text-decoration: none;
+   color:#4ddbff ;        
   }
 
   
